@@ -16,19 +16,19 @@
 
   --color-primary: #594057;
   --color-primary-m-light: hsla(330, 100%, 23%, 0.55);
-  --color-primary-m-dark: hsla(330, 100%, 23%, 0.75);
+  --color-primary-m-dark: hsla(330, 100%, 23%, 0.85);
 
   --color-secondary: #b14b4b;
   --color-secondary-m-light: hsla(45, 100%, 54%, 0.55);
-  --color-secondary-m-dark: rgba(255, 196, 19, 0.75);
+  --color-secondary-m-dark: rgba(255, 196, 19, 0.85);
 
   --color-tertiary: #f74f21;
   --color-tertiary-m-light: hsla(13, 69%, 49%, 0.55);
-  --color-tertiary-m-light: rgba(211, 76, 39, 0.75);
+  --color-tertiary-m-dark: rgba(211, 76, 39, 0.85);
 
   --color-quaternary: #f6eedf;
   --color-secondary-m-light: hsla(39, 56%, 92%, 0.55);
-  --color-secondary-m-light: hsla(39, 56%, 92%, 0.85);
+  --color-secondary-m-dark: hsla(39, 56%, 92%, 0.85);
 
     /* Transtion Duration */
     --transition-duration: 0.3s;
